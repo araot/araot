@@ -1,5 +1,5 @@
+Olá!
 Estou animado para compartilhar que estou iniciando minha jornada como desenvolvedor web júnior! 🚀
-
 Nos últimos meses, tenho me dedicado intensamente ao estudo da programação web full stack, explorando HTML, CSS, JavaScript, PHP e MySQL para criar aplicações modernas, dinâmicas e eficientes. Além disso, venho aprofundando meus conhecimentos em bibliotecas e frameworks como Bootstrap, Tailwind CSS, jQuery e Laravel, para desenvolver interfaces responsivas e sistemas robustos.
 
 Atualmente, estou trabalhando em projetos pessoais, onde aplico essas tecnologias para criar soluções escaláveis e bem estruturadas. Cada desafio me ajuda a aprimorar minhas habilidades em resolução de problemas, desenvolvimento front-end e back-end, além de consolidar minha compreensão sobre a construção de softwares eficientes.
