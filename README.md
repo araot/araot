@@ -1,13 +1,16 @@
-Olá!
-Estou animado para compartilhar que estou iniciando minha jornada como desenvolvedor web júnior! 🚀
-Nos últimos meses, tenho me dedicado intensamente ao estudo da programação web full stack, explorando HTML, CSS, JavaScript, PHP e MySQL para criar aplicações modernas, dinâmicas e eficientes. Além disso, venho aprofundando meus conhecimentos em bibliotecas e frameworks como Bootstrap, Tailwind CSS, jQuery e Laravel, para desenvolver interfaces responsivas e sistemas robustos.
+👋 **Olá! Sou Desenvolvedor Web Júnior em início de jornada!** 🚀
 
-Atualmente, estou trabalhando em projetos pessoais, onde aplico essas tecnologias para criar soluções escaláveis e bem estruturadas. Cada desafio me ajuda a aprimorar minhas habilidades em resolução de problemas, desenvolvimento front-end e back-end, além de consolidar minha compreensão sobre a construção de softwares eficientes.
+Tenho me dedicado intensamente à programação web full stack, utilizando ***HTML, CSS, JavaScript, PHP e MySQL*** para criar aplicações modernas e funcionais. 
+Também estou me aprofundando em ***Bootstrap, Tailwind CSS, jQuery*** e iniciando com ***Laravel***, focando no desenvolvimento de interfaces responsivas e sistemas robustos.
 
-Sou apaixonado por tecnologia e estou sempre em busca de novas oportunidades de aprendizado e crescimento. Meu objetivo é evoluir profissionalmente e atuar com competência técnica, ética e responsabilidade social.
+Atualmente, desenvolvo projetos pessoais que fortalecem minhas habilidades em **front-end**, **back-end** e resolução de problemas. 
+Sou apaixonado por tecnologia e estou sempre em busca de aprendizado, crescimento e boas práticas.
 
-Se você está procurando um desenvolvedor full stack, comprometido e em constante evolução, estou disponível para colaborar em projetos desafiadores! Também estou aberto a networking e trocas de conhecimento com outros profissionais da área.
-Contactos:
+🔎 Buscando oportunidades para colaborar, evoluir tecnicamente e contribuir com soluções de impacto.
+
+📫 Entre em contato comigo:
+👇
+
 ✉️ E-mail: tchipunge007@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/ar%C3%A3o-miguel-tchipunge-0b29b2263/
